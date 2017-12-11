@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+#container {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-left: 1px solid #D4D4D4;
+    border-right: 1px solid #D4D4D4;
+    margin: auto;
+    padding:10px;
+    width: 1170px;
+}
